@@ -45,3 +45,7 @@ pnpm build
 ```
 
 Type-checks first, then builds. Output will be in `dist/`
+
+## Deploy
+
+On every push, the webapp will be deployed to github pages at https://otfried.github.io/view3d.
